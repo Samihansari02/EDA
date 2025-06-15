@@ -69,14 +69,3 @@ The main objective is to improve customer experience by analyzing sales data and
 
 
 
-## Screenshots
-
-![Gender Count](https://1drv.ms/i/c/4fd9d806fd63a142/EZShzlLWh0hPh5ZA4LtdlB0BTFtXrmRzpFbjzXb86yn5yA?e=uzUNm3)
-
-![Amount and Gender](https://1drv.ms/i/c/4fd9d806fd63a142/EaKr-YTKketMj2LME6GTg_cBIVwCTiwJ3CTShRsXy43Kzw?e=0Nd2rO)
-
-![Amount and Age Group](https://1drv.ms/i/c/4fd9d806fd63a142/EZShzlLWh0hPh5ZA4LtdlB0BTFtXrmRzpFbjzXb86yn5yA?e=uzUNm3)
-
-![Count and Age Group](https://1drv.ms/i/c/4fd9d806fd63a142/EZShzlLWh0hPh5ZA4LtdlB0BTFtXrmRzpFbjzXb86yn5yA?e=uzUNm3)
-
-
